@@ -18,5 +18,3 @@
 3. Manage access 탭에서 Collaborator invite
 4. 같은 탭에서 Pull requests 이동
 5. New pull request 이동하여 base:main compare:second 확인
-6. 
-
