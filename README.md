@@ -11,7 +11,7 @@ This is my first repo!!
 
 ## How to Use
 
-```console.log('hello world');
+`console.log('hello world');
 
 
 ```javascript
